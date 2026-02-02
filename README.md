@@ -18,11 +18,15 @@ Explore as demonstrações de código e arquitetura nos meus projetos:
 
 Foco em Machine Learning, Inteligência Artificial Generativa, LLMs (Gemini, Llama3), e a criação de copilotos inteligentes e sistemas multi-agent.
 
-[![Playlist IA/ML/LLMs](https://img.shields.io/badge/Playlist_IA%2FML%2FLLMs-Demos_e_Casos_de_Uso-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/playlist?list=JRV43UEquF4&list=PLbnrhC2tzuAtiNOUOb_Y4lSsLk6KnO0Bj)
+**URL Corrigida:** `https://www.youtube.com/watch?v=JRV43UEquF4&list=PLbnrhC2tzuAtiNOUOb_Y4lSsLk6KnO0Bj`
+
+[![Playlist IA/ML/LLMs](https://img.shields.io/badge/Playlist_IA%2FML%2FLLMs-Demos_e_Casos_de_Uso-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/playlist?list=PLbnrhC2tzuAtiNOUOb_Y4lSsLk6KnO0Bj)
 
 ### 🐳 Playlist 2: DevOps e Arquitetura de Infraestrutura (Kubernetes, Docker, CI/CD)
 
 Projetos e tutoriais focados em Infraestrutura como Código (IaC), GitOps, Docker, Kubernetes, CI/CD e monitoramento, essenciais para ambientes escaláveis.
+
+**URL Corrigida:** `https://www.youtube.com/watch?v=a-Cq3SJBX2M&list=PLbnrhC2tzuAvLBalY4aFXtr_LCI54T3Qr`
 
 [![Playlist DevOps/Infra](https://img.shields.io/badge/Playlist_DevOps%2FInfra-Arquitetura_e_Código-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/playlist?list=PLbnrhC2tzuAvLBalY4aFXtr_LCI54T3Qr)
 
@@ -32,4 +36,3 @@ Projetos e tutoriais focados em Infraestrutura como Código (IaC), GitOps, Docke
 
 *   **[Portfolio Principal (GitHub)](https://github.com/chaos4455/portfolio)**
 *   **[LinkedIn](https://www.linkedin.com/in/itilmgf/)**
-
