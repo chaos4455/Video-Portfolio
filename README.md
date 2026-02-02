@@ -1,9 +1,14 @@
---- START OF FILE README.md ---
 # 🎥 Elias Andrade: Portfólio de Vídeos Técnicos e Demonstrações
 
 Este repositório serve como um ponto de acesso rápido e referência interna para as minhas principais playlists e demonstrações de projetos técnicos no YouTube. O foco é em soluções práticas de **Inteligência Artificial**, **MLOps**, **DevOps** e **Arquitetura de Sistemas**.
 
 [![Visite o Canal Elias Andrade LLM](https://img.shields.io/badge/Canal_no_YouTube-Elias%20Andrade%20LLM-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@eliasandradeLLM)
+[![LLMops](https://img.shields.io/badge/LLMops-Modelos_de_Linguagem-red?style=for-the-badge&logo=llamas&logoColor=white)](https://www.youtube.com/@eliasandradeLLM)
+[![MLOps](https://img.shields.io/badge/MLOps-Ciclo_de_Vida_ML-red?style=for-the-badge&logo=mlflow&logoColor=white)](https://www.youtube.com/@eliasandradeLLM)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Orquestração-red?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.youtube.com/@eliasandradeLLM)
+[![Docker](https://img.shields.io/badge/Docker-Containerização-red?style=for-the-badge&logo=docker&logoColor=white)](https://www.youtube.com/@eliasandradeLLM)
+[![Google Gemini API](https://img.shields.io/badge/Google%20Gemini%20API-IA%20Generativa-red?style=for-the-badge&logo=googlegemini&logoColor=white)](https://www.youtube.com/@eliasandradeLLM)
+
 
 ## 📌 Playlists de Destaque
 
@@ -28,4 +33,3 @@ Projetos e tutoriais focados em Infraestrutura como Código (IaC), GitOps, Docke
 *   **[Portfolio Principal (GitHub)](https://github.com/chaos4455/portfolio)**
 *   **[LinkedIn](https://www.linkedin.com/in/itilmgf/)**
 
---- END OF FILE README.md ---
