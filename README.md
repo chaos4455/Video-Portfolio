@@ -18,7 +18,7 @@ Explore as demonstrações de código e arquitetura nos meus projetos:
 
 Foco em Machine Learning, Inteligência Artificial Generativa, LLMs (Gemini, Llama3), e a criação de copilotos inteligentes e sistemas multi-agent.
 
-[![Playlist IA/ML/LLMs](https://img.shields.io/badge/Playlist_IA%2FML%2FLLMs-Demos_e_Casos_de_Uso-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/playlist?list=PLbnrhC2tzuAtiNOUOb_Y4lSsLk6Kn00Bj)
+[![Playlist IA/ML/LLMs](https://img.shields.io/badge/Playlist_IA%2FML%2FLLMs-Demos_e_Casos_de_Uso-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/playlist?list=JRV43UEquF4&list=PLbnrhC2tzuAtiNOUOb_Y4lSsLk6KnO0Bj)
 
 ### 🐳 Playlist 2: DevOps e Arquitetura de Infraestrutura (Kubernetes, Docker, CI/CD)
 
